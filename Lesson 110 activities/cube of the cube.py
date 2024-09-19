@@ -12,3 +12,5 @@ def by_three(num):
     # display result
     print(by_three(9))
     print(by_three(5))
+
+    # no output
