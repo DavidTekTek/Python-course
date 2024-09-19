@@ -1,5 +1,5 @@
 def well_wishes():
     print('Hello')
-    print('how are you')
+    print('How are you?')
 
 well_wishes()
