@@ -1,3 +1,4 @@
+
 # Define a class for Rectangle
 class Rectangle:
     # Constructor to initialize the length and width
